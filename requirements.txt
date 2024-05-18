@@ -1,0 +1,6 @@
+pyyaml
+numpy
+torchvision
+torch
+matplotlib
+multiprocessing

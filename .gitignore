@@ -1,0 +1,7 @@
+venv/
+fruit/
+Dataset
+Dataset_Processed
+src/model_tuning.ipynb
+__pycache__
+dvc_commands.txt
